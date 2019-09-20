@@ -6,6 +6,8 @@ Releases are available here: https://github.com/deepkit/deepkit/releases
 
 If you need help, got feedback or any questions, please join our Slack channel: [Join Deepkit community](https://join.slack.com/t/deepkitcommunity/shared_invite/enQtNzY1OTU1MzMyODY0LWQ3NDFiNWQxMmRmOWFlNzI0NTE0OTU1ZmJiMmYyNjM4YWRlZThmZTY4MTEyZjZiNjA3MDA1NTJmOTY0YmI1ZjU)
 
+Please see the [Wiki](https://github.com/deepkit/deepkit/wiki) for more informmation, especially on [how to get started](https://github.com/deepkit/deepkit/wiki/Get-started).
+
 ## Alpha
 
 The goal of this alpha version is:
