@@ -1,4 +1,7 @@
-# Deepkit
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/deepkit/deepkit/master/deepkit-vertical.png" />
+</p>
 
 Deepkit is currently in alpha version and can be tested on macOS and Linux x64.
 
