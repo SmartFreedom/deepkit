@@ -1,6 +1,6 @@
 
 <p align="center">
- <img width="150" src="https://raw.githubusercontent.com/deepkit/deepkit/master/deepkit-vertical.png" />
+ <img src="https://raw.githubusercontent.com/deepkit/deepkit/master/deepkit-vertical.png" />
 </p>
 
 Deepkit is currently in alpha version and can be tested on macOS and Linux x64.
