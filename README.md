@@ -11,6 +11,10 @@ If you need help, got feedback or any questions, please join our Slack channel: 
 
 Please see the [Wiki](https://github.com/deepkit/deepkit/wiki) for more informmation, especially on [how to get started](https://github.com/deepkit/deepkit/wiki/Get-started).
 
+## Status
+
+We're working actively on the first beta version with debugger, linux support, community server (at deepkit.ai), and new documentation. Its release is scheduled for february.
+
 ## Alpha
 
 The goal of this alpha version is:
@@ -32,11 +36,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
- Copyright Deepkit® UG.
 
-## Beta
-
-Beta version will follow in the next weeks and will include the debugger and Deepkit team server.
+Copyright Deepkit® UG.
 
 ## Windows
 
